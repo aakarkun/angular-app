@@ -1,2 +1,2 @@
 # angular-app
-Angular 5 - Tour of heroes :v
+Angular 5 - Game Collections :v
