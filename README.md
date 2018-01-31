@@ -1,2 +1,2 @@
 # angular-app
-Angular 5 - Game Collections :v
+Angular 5 - Games Collection :v
