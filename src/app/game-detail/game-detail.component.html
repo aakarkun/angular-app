@@ -6,7 +6,12 @@
       <input [(ngModel)]="game.name" placeholder="name">
     </label>
   </div>
-  <div><span>Genre: </span>{{ game.genre }}</div>
+  <div>
+    <label>Genre:
+      <input [(ngModel)]="game.genre" placeholder="genre">
+    </label>
+  </div>
   <br />
   <button (click)="goBack()">Go back</button>
+  <button (click)="save()">Save</button>
 </div>

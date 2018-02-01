@@ -15,6 +15,7 @@ import { MessageService } from './message.service';
 import { DashboardComponent } from './dashboard/dashboard.component';
 
 import { AppRoutingModule } from './app-routing.module';
+import { GameSearchComponent } from './game-search/game-search.component';
 
 @NgModule({
   declarations: [
@@ -22,7 +23,8 @@ import { AppRoutingModule } from './app-routing.module';
     GamesComponent,
     GameDetailComponent,
     MessagesComponent,
-    DashboardComponent
+    DashboardComponent,
+    GameSearchComponent
   ],
   imports: [
     BrowserModule,
